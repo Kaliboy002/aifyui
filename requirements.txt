@@ -1,0 +1,13 @@
+httpx
+flask
+motor
+pillow
+tgcrypto # Specify a stable version
+requests
+python-ffmpeg
+ffmpeg
+gradio_client
+aiohttp
+aiofiles
+pymongo
+pyrogram
