@@ -1,7 +1,7 @@
 asyncio
 pyrofork
-pyrogram==2.0.106
-tgcrypto==1.2.3
-requests==2.31.0
+pyrogram
+tgcrypto
+requests
 tqdm
 pymongo
